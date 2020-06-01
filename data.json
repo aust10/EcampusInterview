@@ -1,0 +1,50 @@
+[
+    {
+        "State": "Oregon",
+        "city": "Corvallis"
+    },
+    {
+        "State": "Montana",
+        "city": "Helena"
+    },
+    {
+        "State": "Oregon",
+        "city": "Eugene"
+    },
+    {
+        "State": "California",
+        "city": "San Diego"
+    },
+    {
+        "State": "Washington",
+        "city": "Seattle"
+    },
+    {
+        "State": "Oregon",
+        "city": "Portland"
+    },
+    {
+        "State": "Oregon",
+        "city": "Salem"
+    },
+    {
+        "State": "Washington",
+        "city": "Seattle"
+    },
+    {
+        "State": "Nevada",
+        "city": "Reno"
+    },
+    {
+        "State": "Washington",
+        "city": "Tacoma"
+    },
+    {
+        "State": "Oregon",
+        "city": "Albany"
+    },
+    {
+        "State": "Oregon",
+        "city": "Oregon City"
+    }
+]
